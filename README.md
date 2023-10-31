@@ -6,7 +6,7 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 
 Deployed Website: https://sumerat.github.io/tindog/
 
-![tindog](./images/screencapture-sumerat-github-io-tindog-2022-05-29-19_16_20.png)
+[tindog](./images/screencapture-sumerat-github-io-tindog-2022-05-29-19_16_20.png)
 
 ## Built With
 
